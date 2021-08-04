@@ -6,4 +6,4 @@ Esta Landing Page es un reto de FrontendMentor tomado de aquí: https://www.fron
 
 Previsualización del Sitio Web: <br>
 
-<img src="https://user-images.githubusercontent.com/51769095/128251801-b1a6db68-de9e-44d3-b57b-cf8ed8dbd778.png" width= "1200" height="2000" alt="Website Design"/><br>
+<img src="https://user-images.githubusercontent.com/51769095/128251801-b1a6db68-de9e-44d3-b57b-cf8ed8dbd778.png" width= "1000" height="1900" alt="Website Design"/><br>
